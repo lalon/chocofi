@@ -30,3 +30,7 @@ Also closest alternatives are:
 
 - [raychengy/fifi](https://github.com/raychengy/fifi_split_keeb): non choc (mx switches)
 - [davidphilipbarr/chocorne](https://github.com/davidphilipbarr/36keys/tree/master/42Keys/chocorne): non hotswap but choc-spaced corne (you can break off one column so it will be 5x3, but with corne pinky stagger)
+
+
+This Fork enlarges one of the mounting holes (H7) and centers it to accommodate a trackpoint.
+Hasn't been tested yet.
